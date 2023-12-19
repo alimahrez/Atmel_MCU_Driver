@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "atmega32_registers.h": "c",
+    "stdtypes.h": "c",
+    "keypad_interface.h": "c",
+    "keypad_config.h": "c",
+    "timer_interface.h": "c",
+    "sevenseg_interface.h": "c",
+    "dio_interface.h": "c",
+    "sevenseg_config.h": "c",
+    "bitmath.h": "c"
+  }
+}
